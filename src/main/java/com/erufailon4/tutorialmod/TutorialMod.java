@@ -16,6 +16,7 @@ public class TutorialMod implements ItemAdder, BlockAdder {
     @Override
     public void registerItems() {
         Item.registerItem("tutorialmod:copper_ingot", COPPER_INGOT);
+        Item.register(COPPER_ORE);
     }
 
     @Override
