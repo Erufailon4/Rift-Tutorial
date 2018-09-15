@@ -11,9 +11,9 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.tweaker-client'
 apply plugin: 'java'
 
-group 'com.erufailon4.rifttest'
+group 'com.erufailon4.tutorialmod'
 version '0.1.0.002'
-archivesBaseName = 'RiftTest'
+archivesBaseName = 'TutorialMod'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8

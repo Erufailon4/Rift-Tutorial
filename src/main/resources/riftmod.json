@@ -1,10 +1,10 @@
 {
-  "id": "rifttest",
-  "name": "RiftTest",
+  "id": "tutorialmod",
+  "name": "TutorialMod",
   "authors": [
     "Erufailon4"
   ],
   "listeners": [
-    "com.erufailon4.rifttest.RiftTest"
+    "com.erufailon4.tutorialmod.TutorialMod"
   ]
 }
