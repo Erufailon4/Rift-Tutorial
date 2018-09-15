@@ -3,7 +3,6 @@ package com.erufailon4.tutorialmod;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.*;
-import net.minecraft.util.ResourceLocation;
 import org.dimdev.rift.listener.BlockAdder;
 import org.dimdev.rift.listener.ItemAdder;
 
