@@ -9,6 +9,6 @@ public class TutorialMod implements ItemAdder {
 
     @Override
     public void registerItems() {
-        Item.registerItem("rifttest:copper_ingot", COPPER_INGOT);
+        Item.registerItem("tutorialmod:copper_ingot", COPPER_INGOT);
     }
 }
