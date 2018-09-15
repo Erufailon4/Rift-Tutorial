@@ -1,0 +1,10 @@
+{
+  "id": "rifttest",
+  "name": "RiftTest",
+  "authors": [
+    "Erufailon4"
+  ],
+  "listeners": [
+    "com.erufailon4.rifttest.RiftTest"
+  ]
+}
