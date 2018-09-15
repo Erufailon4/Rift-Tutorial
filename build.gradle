@@ -12,7 +12,7 @@ apply plugin: 'net.minecraftforge.gradle.tweaker-client'
 apply plugin: 'java'
 
 group 'com.erufailon4.tutorialmod'
-version '0.1.0.006'
+version '0.1.0.007'
 archivesBaseName = 'TutorialMod'
 
 sourceCompatibility = 1.8
