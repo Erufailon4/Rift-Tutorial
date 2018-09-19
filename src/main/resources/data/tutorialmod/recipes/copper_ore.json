@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tutorialmod:copper_ingot"
+        },
+        {
+            "item": "minecraft:stone"
+        }
+    ],
+    "result": {
+        "item": "tutorialmod:copper_ore",
+        "count": 1
+    }
+}
